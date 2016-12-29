@@ -28,7 +28,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_c_residence.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/residence/13.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/cleaning/residence/1.png" alt="">
                			 </a>
 			</div>
 		</div>
@@ -44,7 +44,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_construction.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/construction/8.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/cleaning/construction/9.png" alt="">
                 		</a>
 			</div>
 		</div>
@@ -57,11 +57,13 @@
 
 
 
+
+
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_c_emergency.php">
-               			 <img class=" img-circle img-responsive img-center" src="./img/cleaning/emergency/1.png" alt="">
+               			 <img class="   img-center  attachment-thumb_block_sias size-thumb_block_sias wp-post-image" src="./img/cleaning/emergency/2.png" alt="">
                			 </a>
 			</div>
 		</div>
@@ -75,7 +77,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_c_boats.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/boats/6.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/cleaning/boats/2.png" alt="">
                			 </a>
 			</div>
 		</div>
@@ -91,7 +93,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_office.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/comercial/16.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/cleaning/office/1.png" alt="">
                 		</a>
 			</div>
 		</div>
@@ -108,7 +110,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_c_restaurant.php">
-               			 <img class="img-circle img-responsive img-center" src="./img/cleaning/restaurant/3.png" alt="">
+               			 <img class=" img-responsive img-center" src="./img/cleaning/restaurant/1.png" alt="">
                			 </a>
 			</div>
 		</div>
@@ -138,7 +140,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_windows.php">
-                		<img class="  img-circle img-responsive img-center" src="./img/cleaning/window/2.png" alt="">
+                		<img class="   img-responsive img-center" src="./img/cleaning/window/4.png" alt="">
                 		</a>
 			</div>
 		</div>
@@ -151,7 +153,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_pool.php">
-                		<img class="img-circle img-responsive img-center" src="./img/cleaning/pool/1.png" alt="">
+                		<img class=" img-responsive img-center" src="./img/cleaning/pool/3.png" alt="">
                 		</a>
 			</div>
 		</div>
@@ -163,13 +165,15 @@
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
 		</div>
 
-
-
+	
         </div><br/>
 <br/>
 </div>
 </div>
 
+	<div class="circle">
+			teste
+		</div>
 
 
 

@@ -25,7 +25,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_cleaning.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/icons/5.png" alt=""><!-- 5 -->
+                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/icons/6.png" alt=""><!-- 5 -->
                			 </a>
 			</div>
 		</div>
@@ -37,7 +37,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_painting.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/painting/1.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/painting/2.png" alt="">
                 		</a>
 			</div>
 		</div>
@@ -50,7 +50,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_gardening.php">
-               			 <img class=" img-circle img-responsive img-center" src="./img/gardening/3.png" alt="">
+               			 <img class="  img-responsive img-center" src="./img/gardening/2.png" alt="">
                			 </a>
 			</div>
 		</div>
@@ -63,7 +63,7 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_organizer.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/organizer/2.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/organizer/.png" alt="">
                 		</a>
 			</div>
 		</div>

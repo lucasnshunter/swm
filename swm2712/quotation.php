@@ -29,6 +29,14 @@
 		    <input type="email" class="form-control" id="email" name="email" placeholder="Email">
 		  </div>
 		   <div class="form-group">
+		    <label for="email">Phone</label>
+		    <input type="email" class="form-control" id="phone" name="phone" placeholder="Phone">
+		  </div>
+		   <div class="form-group">
+		    <label for="subject">Address </label>
+		    <input type="text" class="form-control" id="address" name="address" placeholder="Address">
+		  </div>
+		   <div class="form-group">
 		    <label for="subject">Subject </label>
 		    <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 		  </div>

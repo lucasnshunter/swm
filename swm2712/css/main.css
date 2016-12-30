@@ -454,7 +454,16 @@ margin:10px;
 
 }
 /*codigo criado pelo lucas*/
-
+.esfera {
+    background: #f2f2f2;
+    color: #FFF;
+  
+    border-radius: 100px;
+    
+    padding: 20px; 
+    width: 200px;
+    height: 200px; 
+}
 
 
 

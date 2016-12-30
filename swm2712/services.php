@@ -25,7 +25,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_cleaning.php">
-                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/icons/6.png" alt=""><!-- 5 -->
+                		<center>
+                		<div class="esfera" Align="center">
+                		<img class=" img-circle img-responsive img-center" src="./img/cleaning/icons/cleaning.png" alt=""><!-- 5 -->
+                		</div>
+                		</center>
                			 </a>
 			</div>
 		</div>
@@ -37,7 +41,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_painting.php">
-                		<img class="  img-responsive img-center" src="./img/painting/2.png" alt="">
+               		    <center>
+                		<div class="esfera" Align="center">
+                		<img class="  img-responsive img-center" src="./img/painting/paint.png" alt="">
+                		</div>
+                		</center>
                 		</a>
 			</div>
 		</div>
@@ -50,7 +58,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_gardening.php">
-               			 <img class="  img-responsive img-center" src="./img/gardening/2.png" alt="">
+		          		<center>
+                		<div class="esfera" Align="center">
+               			 <img class="  img-responsive img-center" src="./img/gardening/gardening.png" alt="">
+               			 </div>
+               			 </center>
                			 </a>
 			</div>
 		</div>
@@ -63,7 +75,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_organizer.php">
+               			<center>
+                		<div class="esfera" Align="center">
                 		<img class="  img-responsive img-center" src="./img/organizer/.png" alt="">
+                		</div>
+                		</center>
                 		</a>
 			</div>
 		</div>

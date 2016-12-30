@@ -27,7 +27,7 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
+            
         </ol>
 
         <!-- Wrapper for Slides -->
@@ -42,11 +42,7 @@
                 <div class="fill" style="background-image:url('./img/gardening/slider/slider2.jpg');"></div>
  
             </div>
-            <div class="item">
-                <!-- Set the third background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('./img/gardening/slider/slider3.jpg');"></div>
- 
-            </div>
+           
         </div>
 
         <!-- Controls -->

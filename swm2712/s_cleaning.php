@@ -28,7 +28,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_c_residence.php">
-                		<img class="  img-responsive img-center" src="./img/cleaning/residence/1.png" alt="">
+                			<center>
+                		<div class="esfera"  Align="center">
+                		<img class="  img-responsive img-center" src="./img/cleaning/residence/house.png" alt="">
+                		</div>
+                		</center>
                			 </a>
 			</div>
 		</div>
@@ -40,11 +44,15 @@
 
 
 
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 ">
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_construction.php">
-                		<img class="  img-responsive img-center" src="./img/cleaning/construction/9.png" alt="">
+               			<center>
+               			<div class="esfera"  Align="center">
+                		<img class="  img-responsive img-center" src="./img/cleaning/construction/construct.png" alt="">
+                		</div >
+                		</center>
                 		</a>
 			</div>
 		</div>
@@ -63,7 +71,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_c_emergency.php">
-               			 <img class="   img-center  attachment-thumb_block_sias size-thumb_block_sias wp-post-image" src="./img/cleaning/emergency/2.png" alt="">
+		                <center>
+		                <div class="esfera"  Align="center">
+               			 <img class="   img-center  attachment-thumb_block_sias size-thumb_block_sias wp-post-image" src="./img/cleaning/emergency/emergency.png" alt="">
+               			 </div >
+               			 </center>
                			 </a>
 			</div>
 		</div>
@@ -77,7 +89,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                 		<a href="s_c_boats.php">
-                		<img class="  img-responsive img-center" src="./img/cleaning/boats/2.png" alt="">
+                		<center>
+                		<div class="esfera" Align="center">
+                		<img class="  img-responsive img-center" src="./img/cleaning/boats/boat.png" alt="">
+                		</div >
+                		</center>
                			 </a>
 			</div>
 		</div>
@@ -93,7 +109,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_office.php">
-                		<img class="  img-responsive img-center" src="./img/cleaning/office/1.png" alt="">
+               			 	<center>
+               			 	<div class="esfera" Align="center">
+                			<img class="  img-responsive img-center" src="./img/cleaning/office/office.png" alt="">
+                			</div>
+                			</center>
                 		</a>
 			</div>
 		</div>
@@ -110,7 +130,11 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
 		                <a href="s_c_restaurant.php">
-               			 <img class=" img-responsive img-center" src="./img/cleaning/restaurant/1.png" alt="">
+		                	<center>
+		                 <div class="esfera" Align="center">
+               			 <img class=" img-responsive img-center" src="./img/cleaning/restaurant/restaurant.png" alt="">
+               			 </div>
+               			 </center>
                			 </a>
 			</div>
 		</div>
@@ -140,7 +164,9 @@
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_windows.php">
-                		<img class="   img-responsive img-center" src="./img/cleaning/window/4.png" alt="">
+               			 <div Align="center" class="esfera">
+                		<img  class="   img-responsive img-center" src="./img/cleaning/window/windowns.png" alt="">
+                		</div>
                 		</a>
 			</div>
 		</div>
@@ -149,11 +175,17 @@
                <p>Glass cleaning with high quality</p>
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_pool.php">
-                		<img class=" img-responsive img-center" src="./img/cleaning/pool/3.png" alt="">
+                	<center>
+                	<div class="esfera" Align="center">
+                		<center>
+						<img  class=" img-responsive img-center" src="./img/cleaning/pool/pool.png" alt="">
+						</center>
+					</div>
+                	</center>
                 		</a>
 			</div>
 		</div>
@@ -162,18 +194,17 @@
                <p>Pool Maintenance and cleaning</p>
             </div>
             
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
-		</div>
+           
+	
+        </div>
+        <br/>
+<br/>
+
+
+</div>
+</div>
 
 	
-        </div><br/>
-<br/>
-</div>
-</div>
-
-	<div class="circle">
-			teste
-		</div>
 
 
 

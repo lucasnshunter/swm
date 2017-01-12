@@ -70,18 +70,18 @@
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
-		                <a href="s_c_emergency.php">
+		                <a href="s_c_windons.php">
 		                <center>
 		                <div class="esfera"  Align="center">
-               			 <img class="   img-center  attachment-thumb_block_sias size-thumb_block_sias wp-post-image" src="./img/cleaning/emergency/emergency.png" alt="">
+               			 	<img  class=" img-responsive img-center" src="./img/cleaning/window/windowns.png" alt="">
                			 </div >
                			 </center>
                			 </a>
 			</div>
 		</div>
 
-               <h3 class="middler">Emergency</h3>
-                <p>Emergencial Cleaning Services</p><br/><br/>
+                <h3 class="middler">Windows</h3>
+               <p>Glass cleaning with high quality</p><br/><br/>
             </div>
 
 
@@ -156,26 +156,15 @@
 <br/>
 <br/>
 
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
-		</div>
-
-
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
-		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
-			<div style="margin-left:-10px; margin-right:-10px;border:none;">
-               			 <a href="s_c_windows.php">
-               			 <div Align="center" class="esfera">
-                		<img  class="   img-responsive img-center" src="./img/cleaning/window/windowns.png" alt="">
-                		</div>
-                		</a>
+           
+            
+             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+	
 			</div>
-		</div>
-
-              <h3 class="middler">Windows</h3>
-               <p>Glass cleaning with high quality</p>
-            </div>
-
-         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+            
+            
+           
+         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
 		<div class="thumbnail" style="margin-left:-10px; margin-right:-10px;border:none;">
 			<div style="margin-left:-10px; margin-right:-10px;border:none;">
                			 <a href="s_c_pool.php">
@@ -193,6 +182,15 @@
               <h3 class="middler">Pool</h3>
                <p>Pool Maintenance and cleaning</p>
             </div>
+             
+            
+            
+            
+             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+	
+			</div>
+            
+            
             
            
 	

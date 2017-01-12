@@ -77,7 +77,7 @@
                			 <a href="s_organizer.php">
                			<center>
                 		<div class="esfera" Align="center">
-                		<img class="  img-responsive img-center" src="./img/organizer/.png" alt="">
+                		<img class="  img-responsive img-center" src="./img/organizer/4.png" alt="">
                 		</div>
                 		</center>
                 		</a>

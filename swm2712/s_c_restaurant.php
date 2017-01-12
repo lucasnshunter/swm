@@ -60,8 +60,11 @@
 
         <div class="row">
             <div class="col-lg-12">
-                <h1>Restaurante</h1>
-        <p align="justify" style="margin:20px;">Sem texto</p>
+                <h1> Restaurant Cleaning</h1>
+        <p align="justify" style="margin:20px;">
+        Our crews are ready to provide the best in restaurant cleaning to make sure your kitchen and dining areas are clean, fresh and ready for the next day.
+With professional restaurant cleaning services, your cooks will have a sanitized work environment and your guests an spotless dining area.
+        </p>
        
             </div>
         </div>
